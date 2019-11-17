@@ -1,0 +1,17 @@
+This very morning I had to go a clear six miles and only took three shillings . |output/eval/mel-batch_0_sentence_0.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
+Though they could not force him to gamble and he was compelled to drink .|output/eval/mel-batch_0_sentence_1.npy|<no_g>
