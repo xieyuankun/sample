@@ -1,0 +1,17 @@
+But you are quite right ; you could not have chosen better      .          |output/eval/mel-batch_0_sentence_0.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+it is only practiced ; the modern printers understand this     .              |output/eval/mel-batch_0_sentence_1.npy|<no_g>
