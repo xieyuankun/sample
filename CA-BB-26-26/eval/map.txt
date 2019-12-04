@@ -1,17 +1,17 @@
-I tell you what , Ned , I'm afraid it hasn't been all right with Reuben . |output/eval/mel-batch_0_sentence_0.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
-The human hand that placed it there was only seen for a moment . |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+I tell you what , Ned , I'm afraid it hasn't been all right with Reuben      .             |output/eval/mel-batch_0_sentence_0.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+The human hand that placed it there was only seen for a moment       .                 |output/eval/mel-batch_0_sentence_1.npy|<no_g>
