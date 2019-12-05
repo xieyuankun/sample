@@ -1,0 +1,17 @@
+The man that had the care of us never gave me a kind word in my life         .           |output/eval/mel-batch_0_sentence_0.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+On the whole the type of this book may be considered the ultra of Gothic type     .          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
