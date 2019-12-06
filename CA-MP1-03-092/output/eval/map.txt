@@ -1,0 +1,17 @@
+Live with me , dear Lady Bertram , what do you mean ?          |output/eval/mel-batch_0_sentence_0.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
+At this stage , what could have been , the remark that Goodson made   ?          |output/eval/mel-batch_0_sentence_1.npy|<no_g>
