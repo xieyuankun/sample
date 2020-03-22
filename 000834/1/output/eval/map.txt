@@ -1,0 +1,17 @@
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
+mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4|output/eval/mel-batch_0_sentence_0.npy|<no_g>
